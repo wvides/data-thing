@@ -1,0 +1,14 @@
+vpc_id = ""
+route_table_ids = [
+  ""
+]
+region                 = ""
+redshift_user          = ""
+redshift_password      = ""
+security_group_id_list = ["sg-48777237"]
+subnet_id              = ""
+availability_zone      = ""
+cluster_identifier     = ""
+redshift_database      = ""
+redshift_port          = ""
+data_origin_account_id = ""

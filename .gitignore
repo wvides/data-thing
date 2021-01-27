@@ -1,0 +1,11 @@
+**/record-samples/*
+**/.venv
+**/.terraform*
+**/.DS_Store
+.vscode
+**/.env
+*.tfstate*
+darwin_amd64
+crash.log
+terraform.tfvars
+darwin_amd64
